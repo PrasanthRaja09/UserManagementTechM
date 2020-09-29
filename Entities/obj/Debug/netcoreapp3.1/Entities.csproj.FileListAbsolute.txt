@@ -1,0 +1,17 @@
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+S:\New folder\UserManagement\UserManagement\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+S:\New folder\UserManagement\UserManagement\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+S:\New folder\UserManagement\UserManagement\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+S:\New folder\UserManagement\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+S:\New folder\UserManagement\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+S:\New folder\UserManagement\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+S:\New folder\UserManagement\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+S:\New folder\UserManagement\UserManagement\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

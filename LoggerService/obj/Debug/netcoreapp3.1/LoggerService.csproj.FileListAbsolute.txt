@@ -1,0 +1,28 @@
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+S:\New folder\UserManagement\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+S:\New folder\UserManagement\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+S:\New folder\UserManagement\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+S:\New folder\UserManagement\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+S:\New folder\UserManagement\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+S:\New folder\UserManagement\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+S:\New folder\UserManagement\UserManagement\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+S:\New folder\UserManagement\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+S:\New folder\UserManagement\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+S:\New folder\UserManagement\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+S:\New folder\UserManagement\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+S:\New folder\UserManagement\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+S:\New folder\UserManagement\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+S:\New folder\UserManagement\UserManagement\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

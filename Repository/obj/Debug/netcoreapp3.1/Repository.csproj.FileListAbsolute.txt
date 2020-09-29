@@ -1,0 +1,28 @@
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\VinothCombli\Documents\Visual Studio 2019\Projects\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+S:\New folder\UserManagement\UserManagement\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+S:\New folder\UserManagement\UserManagement\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+S:\New folder\UserManagement\UserManagement\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+S:\New folder\UserManagement\UserManagement\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+S:\New folder\UserManagement\UserManagement\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+S:\New folder\UserManagement\UserManagement\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+S:\New folder\UserManagement\UserManagement\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+S:\New folder\UserManagement\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+S:\New folder\UserManagement\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+S:\New folder\UserManagement\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+S:\New folder\UserManagement\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+S:\New folder\UserManagement\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+S:\New folder\UserManagement\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+S:\New folder\UserManagement\UserManagement\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
